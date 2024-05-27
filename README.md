@@ -72,10 +72,6 @@ To run the development environment:
    npm run build
    ```
 
-4. Publish to npm:
-   ```bash
-   npm publish --access=public
-   ```
 
 ## License
 
