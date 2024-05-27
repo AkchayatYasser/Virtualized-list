@@ -1,7 +1,7 @@
 {
   "name": "@akchayatyasser/virtualizedlist",
   "private": false,
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "A virtualized list component for React",
   "type": "module",
   "scripts": {
@@ -14,6 +14,9 @@
     "type": "git",
     "url": "https://github.com/AkchayatYasser/Virtualized-list"
   },
+  "keywords": ["react", "component", "virtualized", "window"],
+  "author": "Akchayat Yasser akchayaty333@gmail.com",
+
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
