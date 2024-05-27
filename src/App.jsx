@@ -1,9 +1,5 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
 import VirtualizedList from './components/virtualizedList'
-import VirList from './components/virList'
 
 
 function App() {

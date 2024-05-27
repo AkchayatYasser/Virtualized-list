@@ -1,4 +1,3 @@
-Sure, here's the text ready for you to copy and paste into your `README.md` file:
 
 ---
 
