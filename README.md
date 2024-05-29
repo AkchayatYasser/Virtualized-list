@@ -57,7 +57,7 @@ To run the development environment:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AkchayatYasser/virtualizedlist.git
+   git clone https://github.com/AkchayatYasser/Virtualized-list.git
    cd virtualizedlist
    ```
 
